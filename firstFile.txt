@@ -1,7 +1,7 @@
 line 1 (updated by git_1 user)
 line 2 (updated by git_1 user)
-line 3 
-line 4
+line 3 (updated by git_1 user)
+line 4 (updated by git_1 user)
 line 5
 line 6
 line 7
