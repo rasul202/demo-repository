@@ -1,0 +1,26 @@
+From bb62f350b4b8583f95678c3711d0a9cbc05d5f9d Mon Sep 17 00:00:00 2001
+From: rasul202 <rasultaghisoy@gmail.com>
+Date: Sun, 26 Apr 2026 17:45:42 +0400
+Subject: [PATCH] edditing first two lines on the firstFile.txt file
+
+---
+ firstFile.txt | 6 +++---
+ 1 file changed, 3 insertions(+), 3 deletions(-)
+
+diff --git a/firstFile.txt b/firstFile.txt
+index b3f56ae..b451526 100644
+--- a/firstFile.txt
++++ b/firstFile.txt
+@@ -1,6 +1,6 @@
+-line 1
+-line 2
+-line 3
++line 1 (updated by git_1 user)
++line 2 (updated by git_1 user)
++line 3 
+ line 4
+ line 5
+ line 6
+-- 
+2.54.0.windows.1
+
