@@ -1,5 +1,5 @@
-line 1 (updated by git_1 user)
-line 2 (updated by git_1 user)
+line 1 (updated by git_1 user) (updated by git_1 user under folder-2)
+line 2 (updated by git_1 user) (updated by git_1 user under folder-2)
 line 3 (updated by git_1 user)
 line 4 (updated by git_1 user)
 line 5
